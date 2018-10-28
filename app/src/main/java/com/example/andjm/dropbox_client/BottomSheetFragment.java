@@ -8,7 +8,7 @@ import android.view.ViewGroup;
 
     public class BottomSheetFragment extends BottomSheetDialogFragment {
         public BottomSheetFragment() {
-            // Required empty public constructor???
+            // Required empty public constructor
         }
 
         @Override
